@@ -20,7 +20,7 @@ Asegúrate de tener instalados los siguientes componentes:
 
 ## Detalles
 
-Para mayor detalle al inicializar el proyecto consultar ambos repositorios donde se explica mas el como usarlo y su respectiva instalacion:
+Para mayor detalle, al inicializar el proyecto, consultar ambos repositorios donde se explica más el cómo usarlo y su respectiva instalación:
 
 - FRONTEND: [todo-app](https://github.com/LiReyes/todo-app).
 
@@ -61,7 +61,7 @@ inicia:
 API URL = http://127.0.0.1:8000 o http://localhost:8000
 ```
 
-6. Verificar instalacion de node
+6. Verificar instalación de node
 
 ```sh
 node -v
