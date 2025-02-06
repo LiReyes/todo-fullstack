@@ -1,0 +1,6 @@
+[submodule "todo-app"]
+	path = todo-app
+	url = https://github.com/LiReyes/todo-app
+[submodule "todo-api"]
+	path = todo-api
+	url = https://github.com/LiReyes/todo-api
